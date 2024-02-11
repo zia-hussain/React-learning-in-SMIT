@@ -1,11 +1,11 @@
-
-const App = () => {
-  return (
-    <div>
-
-        <h1>riyan bhandaari !</h1>
-    </div>
-  )
+import SearchParams from "./components/SearchParams";
+function App(){
+    return(
+      <div>
+        <h1>Adopt Me!</h1>
+        <SearchParams />
+      </div>
+    )
 }
 
-export default App
+export default App;

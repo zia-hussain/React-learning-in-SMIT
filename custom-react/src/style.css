@@ -87,7 +87,7 @@
     text-overflow: ellipsis;
   }
    
-  /* header > a,
+  header > a,
   #root > div > h1 {
     display: inline-block;
     background-image: url(http://static.frontendmasters.com/resources/2019-05-02-complete-intro-react-v5/image-logo.png);
@@ -97,7 +97,7 @@
     overflow: hidden;
     text-indent: -9999px;
     margin: 20px 0;
-  } */
+  }
    
   .pet h2 {
     white-space: nowrap;

@@ -1,12 +1,12 @@
-// App.jsx
-import React from 'react';
-import Zia from './zia.jsx'; 
-
+import Zubair from './Zubair.js'
 function App() {
   return (
-
-<Zia />
-    
+    <div> 
+    <h1>
+    App js
+   </h1>
+   <Zubair />
+   </div>
   );
 }
 
