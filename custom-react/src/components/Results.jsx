@@ -5,7 +5,7 @@ function Results({pets}) {
     <div className='search'>
      {
      !pets.length ? (
-        <h1>Ooops! No Data Found ...</h1>
+        <h1>No pets Found</h1>
      )
       :
      (
